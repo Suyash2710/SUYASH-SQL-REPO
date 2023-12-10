@@ -1,0 +1,2 @@
+# SUYASH-SQL-REPO
+Training
